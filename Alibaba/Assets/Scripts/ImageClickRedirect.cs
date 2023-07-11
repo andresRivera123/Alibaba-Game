@@ -3,7 +3,7 @@ using UnityEngine.EventSystems;
 
 public class ImageClickRedirect : MonoBehaviour
 {
-    public string URL = "https://github.com/andresRivera123";
+    public string URL = null;
 
     public void openURL()
     {
