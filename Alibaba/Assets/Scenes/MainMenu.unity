@@ -3478,6 +3478,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4440979991253305248, guid: 902b0b5fe5a32e745aee6416169771fa, type: 3}
+      propertyPath: backgroundMusicClip
+      value: 
+      objectReference: {fileID: 8300000, guid: b1d453ce88de7054eab025a893f8074e, type: 3}
     - target: {fileID: 4440979991253305249, guid: 902b0b5fe5a32e745aee6416169771fa, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -3525,7 +3529,7 @@ PrefabInstance:
     - target: {fileID: 4440979991253305250, guid: 902b0b5fe5a32e745aee6416169771fa, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 47acbb8ae2dfec14c8462c5e606b21a9, type: 3}
+      objectReference: {fileID: 8300000, guid: b1d453ce88de7054eab025a893f8074e, type: 3}
     - target: {fileID: 4440979991253305263, guid: 902b0b5fe5a32e745aee6416169771fa, type: 3}
       propertyPath: m_Name
       value: MusicManager
